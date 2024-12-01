@@ -15,8 +15,4 @@ This project computes the acceleration of multiple cars using a Y by 3 matrix, w
 
 ### 1. **Clone the Repository**
 
-If you haven't already, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/acceleration-computation.git
-cd acceleration-computation
+### 2. **Run the build_and_run.bat**
